@@ -34,20 +34,7 @@ The report uses KPI cards for total sales, average sales, item count and rating,
 - Sales by outlet location, outlet size and outlet establishment year
 - Outlet type comparisons and filter controls
 The filters help compare subsets of the dataset without changing the source records.
-Repository structure
-Blinkit-Sales-Analysis/
-├── README.md
-├── data/
-│   ├── blinkit_grocery_data.csv
-│   └── blinkit.json
-├── sql/
-│   └── blinkit_analysis.sql
-├── docs/
-│   ├── project_requirements.pdf
-│   └── sql_query_reference.docx
-└── images/
-    ├── README.md
-    └── dashboard.png   
+
 How to explore
 1. Review the source data in [`data/blinkit_grocery_data.csv`](data/blinkit_grocery_data.csv).
 2. Import the CSV into SQL Server, naming the table blinkit_data and mapping the column names to underscore-separated names used in the provided SQL script.
