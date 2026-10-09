@@ -50,18 +50,7 @@ These results describe the dataset. Differences in category size and outlet coun
 - Compare performance per outlet before making decisions based on total sales by outlet type or location tier.
 - Investigate why outlet sizes and locations contribute different shares of sales; further information would be needed to establish causes.
 
-## Repository structure
 
-```text
-Blinkit-PowerBI-Portfolio/
-├── README.md
-├── images/
-│   └── dashboard.png
-├── docs/
-│   └── dashboard.pdf
-└── data/
-    └── blinkit_grocery_data.csv
-```
 
 ## How to explore
 
