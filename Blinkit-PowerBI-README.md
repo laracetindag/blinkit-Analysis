@@ -3,11 +3,7 @@
 A Power BI dashboard project analysing grocery sales performance across product categories and outlet characteristics. The report brings sales, item counts, customer ratings and outlet comparisons into one interactive view to support retail performance analysis.
 
 ## Dashboard preview
-
-![Blinkit sales analysis dashboard](images/dashboard.png)
-
-[View the dashboard as a PDF](docs/dashboard.pdf)
-
+[grocery data 2.pdf](https://github.com/user-attachments/files/33246664/grocery.data.2.pdf)
 > The dashboard preview is a static image. The interactive Power BI report is not publicly accessible through my university account.
 
 ## Project objective
@@ -69,8 +65,9 @@ Blinkit-PowerBI-Portfolio/
 
 ## How to explore
 
-1. View the dashboard screenshot above or open the [PDF](docs/dashboard.pdf).
-2. Explore the [CSV dataset](data/blinkit_grocery_data.csv).
+1. View the dashboard screenshot above or open the [grocery data 2.pdf](https://github.com/user-attachments/files/33246684/grocery.data.2.pdf)
+2. Explore the [CSV dataset][BlinkIT Grocery Data.csv](https://github.com/user-attachments/files/33246690/BlinkIT.Grocery.Data.csv)
+
 3. If a `.pbix` report file becomes available for sharing, it can be added to the repository to allow others to open the report in Power BI Desktop.
 
 ## Dataset note
