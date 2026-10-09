@@ -47,7 +47,7 @@ Blinkit-Sales-Analysis/
 │   └── sql_query_reference.docx
 └── images/
     ├── README.md
-    └── dashboard.png   # Add your dashboard screenshot
+    └── dashboard.png   
 How to explore
 1. Review the source data in [`data/blinkit_grocery_data.csv`](data/blinkit_grocery_data.csv).
 2. Import the CSV into SQL Server, naming the table blinkit_data and mapping the column names to underscore-separated names used in the provided SQL script.
